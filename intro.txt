@@ -1,0 +1,2 @@
+Stansaga = Standard Satuan Harga
+aplikasi excel converter file stansaga menjadi file database sqlite
